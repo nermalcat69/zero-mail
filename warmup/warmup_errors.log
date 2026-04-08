@@ -1,0 +1,6 @@
+[2026-04-09T00:38:16] init_db failed: 505, message='Invalid response status', url='wss://gmail-warmup-nermalcat69.aws-ap-northeast-1.turso.io'
+2026-04-09 00:38:16 [ERROR] db: init_db failed: 505, message='Invalid response status', url='wss://gmail-warmup-nermalcat69.aws-ap-northeast-1.turso.io'
+2026-04-09 00:39:21 [INFO] db: Database schema initialised.
+2026-04-09 00:39:34 [INFO] db: Database schema initialised.
+2026-04-09 00:39:57 [INFO] db: Database schema initialised.
+2026-04-09 00:50:57 [INFO] db: Database schema initialised.
